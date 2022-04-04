@@ -1,0 +1,10 @@
+Q1. AWT is used for GUI programming in java?,A. True,B. False,C. Error,D. Close,A
+Q2. Which is a component in AWT that can contain another components like buttons/textfields/labels etc.?,A. Window,B. Container,C. Panel,D. Frame,B
+Q3. Which servlet does struts framework use?,A. EntryServlet,B. StrutsServlet,C. ActionServlet,D. BasicServlet,C
+Q4. The struts 2 framework is used to develop MVC- based web application,A. True,B. False,C. Error,D.Close,A
+Q5. In which the JDBC type represents a single precision floating point number that supports seven digits of mantissa?,A. REAL,B. DOUBLE,C. FLOAT,D. INTEGER,A
+Q6. In which model a Java applet or application talks directly to the data source?,A. Two-tier models,B. Three-tier models,C. Both A & B,D. None of the above,A
+Q7. A JDBC technology-based driver JDBC driver makes it possible to do,A. Establish a connection with a data source,B. Send queries and update statements to the data source,C. Process the results,D. All mentioned above,D
+Q8. Which of the following methods are members of the Vector class and allow you to input a new element?,A. addElement,B.insert,C. append,D. addItem,A
+Q9. What can cause a thread to stop executing?,A. The program exits via a call to System.exit(0);,B. Another thread is given a higher priority,C. A call to the thread's stop method,D. All of the above,D
+Q10. Which of the following statements are correct?,A. If multiple listeners are added to a component only events for the last listener added will be processed,B. If multiple listeners are added to a component the events will be processed for all but with no guarantee in the order,C. Adding multiple listeners to a comnponent will cause a compile time error,D. You can not remove or add listeners to a component.,B

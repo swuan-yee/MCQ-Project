@@ -1,0 +1,10 @@
+Q1 Which of the following is not true? ,A.PHP can be used to develop web applications.,B.PHP makes a website dynamic,C.PHP applications can not be compile,D.PHP can not be embedded into html,D
+Q2 What is the name of function used to convert an array into a string?,A.explode(),B.glue(),C.implode(),D.None of the above,C
+Q3 list in PHP is ?,A.Language construct,B.Keyword,C.A & C Both,D.None of the above,A
+Q4 PHP stands for,A.Process Hypertext Preprocessor,B.Hypertext Preprocessor,C.Preprocessor Hypertext,D.None of the above,B
+Q5 PHP scripts are used in ,A. Server-side scripting,B.Command-line scripting,C. Client-side GUI applications,D.All of these above,D
+Q6 Select the incorrect statement about PHP programming language ,A. Variables are case-insensitive,B. Classes are case-insensitive,C. Functions rae case-insensitive,D. Constants are case-sensitive,A
+Q7 In PHP programming literal is a ,A. Class,B. Function,C. Data value,D. None of these above,C
+Q8 Class member variables are also called?,A.Properties,B.Fields,C.Attributes,D.All of the above,D
+Q9 Which of the following method sends input to a script via a URL? ,A.Get,B.Post,C.Both,D.None,A
+Q10 Which of the following variables is not a predefined variable? ,A.$get,B.$ask,C.$request,D.$post,B
